@@ -6,52 +6,51 @@ Before you start contributing, please take a moment to review this guide to unde
 
 ## Code of Conduct
 
-We have adopted a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all contributors to follow. Please make sure to read and adhere to these guidelines when participating in this project.
+# Code of Conduct
 
-## How Can I Contribute?
+Welcome to AgroMart - Your Trusted Agricultural Marketplace. We are committed to providing a positive and respectful environment for all our contributors, users, and partners. Please read and adhere to the following code of conduct:
 
-Here are some ways you can contribute to TechTack:
+## 1. Respect and Inclusivity
 
-- Reporting bugs
-- Suggesting new features or improvements
-- Writing code enhancements or fixes
-- Providing feedback on issues and pull requests
+- **Respect Others:** Treat all contributors, users, and customers with kindness, respect, and empathy. We value diverse perspectives and backgrounds.
 
-## Reporting Bugs
+- **Inclusivity:** Ensure that everyone, regardless of their age, gender, race, ethnicity, nationality, sexual orientation, disability, religion, or any other personal characteristic, feels welcome and valued.
 
-If you encounter a bug or an issue with TechTack, please [open an issue](https://github.com/yourusername/techtack/issues) on our GitHub repository. Please provide detailed information about the problem, including steps to reproduce it, the expected behavior, and your environment.
+## 2. Professionalism
 
-## Suggesting Enhancements
+- **Honesty and Integrity:** Conduct all interactions, transactions, and communications with honesty and integrity. Avoid deceptive or fraudulent practices.
 
-If you have an idea for a new feature or an improvement to existing features, please [open an issue](https://github.com/yourusername/techtack/issues) and describe your proposal. We welcome discussions on potential enhancements.
+- **Customer Focus:** Prioritize customer satisfaction and safety above all. Provide accurate product information, handle customer complaints promptly, and deliver high-quality products and services.
 
-## Writing Code
+## 3. Collaboration
 
-If you're interested in contributing code to TechTack, follow these steps:
+- **Open Communication:** Encourage open and respectful communication among contributors, users, and customers. Constructive feedback is welcome, but personal attacks or harassment are not tolerated.
 
-1. Fork the repository to your own GitHub account.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your work: `git checkout -b feature/your-feature`.
-4. Write your code, following our coding style and best practices.
-5. Test your changes thoroughly.
-6. Commit your changes: `git commit -m "Add your feature"`.
-7. Push your changes to your fork: `git push origin feature/your-feature`.
-8. Create a pull request (PR) to the `main` branch of the original repository.
+- **Collaboration:** Collaborate with others to improve our platform and agricultural offerings. Share knowledge and expertise to benefit the community.
 
-Our team will review your PR, provide feedback, and merge it if it meets our standards. Please ensure that your code is well-documented and includes relevant tests.
+## 4. Privacy and Security
 
-## Code Style
+- **Privacy:** Protect user and customer privacy. Do not share personal information without consent and follow all applicable data protection laws.
 
-We follow a consistent code style in this project. Please adhere to the coding style guidelines specified in the [style guide](STYLE_GUIDE.md).
+- **Security:** Maintain the highest security standards for user data and financial transactions. Report security vulnerabilities responsibly.
 
-## Licensing
+## 5. Compliance
 
-By contributing to TechTack, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+- **Legal Compliance:** Ensure compliance with all applicable laws and regulations, including agricultural, trade, and e-commerce regulations.
 
-## Questions?
+- **Intellectual Property:** Respect intellectual property rights. Do not use copyrighted material without permission or appropriate licensing.
 
-If you have any questions or need further clarification, feel free to contact us at support@techtack.com.
+## 6. Reporting Violations
 
-Thank you for contributing to TechTack! Your efforts are greatly appreciated.
+If you observe any violations of this code of conduct, please report them to our moderation team immediately via vijaymahto6178@gmail.com. We take all reports seriously and will investigate and address violations promptly.
 
-&copy; 2023 TechTack. All rights reserved.
+## 7. Enforcement
+
+Violations of this code of conduct may result in consequences, including warnings, suspensions, or permanent bans from the platform, depending on the severity of the violation and its impact on our community and customers.
+
+By contributing to or using AgroMart, you agree to abide by this code of conduct. We reserve the right to modify and update this code of conduct as needed to maintain a safe and welcoming environment for all.
+
+Thank you for being a part of our agricultural community. Together, we can make AgroMart a trusted and thriving marketplace for agricultural products.
+
+**AgroMart - 2023**
+
