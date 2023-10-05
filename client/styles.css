@@ -7,3 +7,33 @@
 .fas{
     width: 20px;
 }
+.container {
+    padding: 60px;
+}
+.image-container {
+    text-align: center;
+}
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+.content {
+    padding: 80px;
+}
+.btn-secondary:hover{
+    color: black;
+    background-color:rgb(224, 219, 64)
+}
+.Heading .text{
+      text-align: center;
+      font-family:'Times New Roman', Times, serif;
+      letter-spacing: 2px;
+      font-weight: bolder;
+}
+.line{
+    margin:auto;
+    text-align: center;
+    width: 50%;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
