@@ -47,3 +47,24 @@
     padding: 70px;
     background: #f8f9fa;
 }
+.search-button {
+    background-color: #FF5733; /* Change the button background color */
+    color: #FFF; /* Change the button text color */
+    transition: background-color 0.3s ease; /* Add a smooth background color transition */
+}
+
+.search-button:hover {
+    background-color: #FFA07A; /* Change the button background color on hover */
+}
+
+/* Customize the size of the search input area */
+.custom-search-input {
+    width: 100%; /* Set the input width to 100% */
+    padding: 10px; /* Adjust padding for a larger input area */
+    background: #ffffff;
+    border: 1px solid black;
+}
+.klm{
+    width:80px;
+    height: 45px;
+}
