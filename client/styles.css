@@ -37,3 +37,13 @@
     font-weight: bolder;
     margin-bottom: 20px;
 }
+.col-sm{
+    margin-bottom: 30px;
+}
+.text-center{
+    text-align: left;
+        }
+.fot{
+    padding: 70px;
+    background: #f8f9fa;
+}
